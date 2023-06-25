@@ -4,7 +4,7 @@
   
 Hi, My name is Raju.   
 
-I've recently being learning to use Python as a part of **HyperionDev Bootcamp in Software Engineering (Fundamentals)**. What I have learned so far is just a tip of the iceberg and I'm here eager to learn further through the community. Please feel free to connect with me and please do not hesitate to give me any suggestion and feedback.
+I've recently being learning to use :snake: Python as a part of **HyperionDev Bootcamp in Software Engineering (Fundamentals)**. What I have learned so far is just a tip of the iceberg and I'm here eager to learn further through the community. Please feel free to connect with me and please do not hesitate to give me any suggestion and feedback.
 
 I am sure I'll be back here to make more changes for now, **"Hello Everyone"**.
 
