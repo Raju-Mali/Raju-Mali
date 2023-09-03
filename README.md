@@ -8,7 +8,9 @@ I am a highly motivated, creative individual with extensive experience in admini
 
 Please feel free to connect with me and please do not hesitate to give me any suggestion and feedback.
 
-I am sure I'll be back here to make more changes for now, **"Hello Everyone"**.
+I will upload all of my projects on here. 
+
+Thank you.
 
 
 <!--
